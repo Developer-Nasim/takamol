@@ -1,8 +1,7 @@
 (function($) {
   "use strict";
   
-  $('select').niceSelect();
-
+  $('select').niceSelect(); 
   
  
 })(jQuery);

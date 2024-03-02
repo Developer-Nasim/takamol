@@ -1,6 +1,57 @@
 /* Big screen :1200px. */
 @media (min-width: 1200px) and (max-width: 1500px) {
 
+    /*---------------------Solutions section Start ----------------------*/
+    .Solution__blk p {
+        font-size: 16px;
+    }
+
+    /*---------------------Solutions section End -------------------------*/
+
+
+
+
+
+    /*---------------------contact section Start ----------------------*/
+    .step__title h1 {
+        font-size: 40px;
+    }
+
+    section.contact-area .step__title {
+        max-width: 90%;
+    }
+
+    .input__blk {
+        max-width: 1000px;
+        margin-bottom: 40px;
+    }
+
+    .input__blk label {
+        font-size: 28px;
+    }
+
+    .input__blk input {
+        height: 60px;
+    }
+
+    .contact__form button {
+        height: 70px;
+        font-size: 22px;
+    }
+
+    /*---------------------contact section End -------------------------*/
+
+    
+
+/*---------------------Strategic section Start ----------------------*/
+.Strategic__blk h2 {
+    font-size: 28px;
+  }
+  
+  .Strategic__blk p {
+    font-size: 16px;
+  }
+  /*---------------------Strategic section End -------------------------*/
 
 }
 
@@ -8,25 +59,361 @@
 /* Normal screen :992px. */
 @media (min-width: 992px) and (max-width: 1200px) {
 
+    /*---------------------Solutions section Start ----------------------*/
+    .Solution__blk p {
+        font-size: 14px;
+        padding: 0 20px;
+    }
+
+    .Solution__blk h5 {
+        font-size: 18px;
+    }
+
+    .Solutions__top h1 {
+        font-size: 36px;
+    }
+
+    .Solutions__top p {
+        font-size: 20px;
+        max-width: 600px;
+    }
+
+    .Solutions__wrp {
+        padding: 0 20px;
+    }
+
+    /*---------------------Solutions section End -------------------------*/
+
+
+    /*---------------------contact section Start ----------------------*/
+    .step__title h1 {
+        font-size: 40px;
+    }
+
+    section.contact-area .step__title {
+        max-width: 90%;
+    }
+
+    .input__blk {
+        max-width: 1000px;
+        margin-bottom: 40px;
+    }
+
+    .input__blk label {
+        font-size: 28px;
+    }
+
+    .input__blk input {
+        height: 60px;
+    }
+
+    .contact__form button {
+        height: 70px;
+        font-size: 22px;
+    }
+
+    .input__blk .wrapper {
+        max-width: 830px;
+    }
+
+    /*---------------------contact section End -------------------------*/
+
+    
+
+/*---------------------Strategic section Start ----------------------*/
+.Strategic__blk h2 {
+    font-size: 28px;
+  }
+  
+  .Strategic__blk p {
+    font-size: 16px;
+  }
+  /*---------------------Strategic section End -------------------------*/
+
 
 }
 
- 
+
 /* Tablet screen :768px. */
 @media (min-width: 768px) and (max-width: 991px) {
 
 
+    /*---------------------Solutions section Start ----------------------*/
+    .Solution__blk p {
+        font-size: 14px;
+        padding: 0 20px;
+    }
+
+    .Solution__blk h5 {
+        font-size: 18px;
+    }
+
+    .Solutions__top h1 {
+        font-size: 28px;
+    }
+
+    .Solutions__top p {
+        font-size: 18px;
+        max-width: 560px;
+    }
+
+    .Solutions__wrp {
+        padding: 0 20px;
+    }
+
+    .Solutions__wrp .Solution__blk {
+        margin-bottom: 30px;
+    }
+
+    .Solution__btn a,
+    .theme-btn {
+        font-size: 18px;
+        width: 300px;
+        height: 60px;
+    }
+
+    /*---------------------Solutions section End -------------------------*/
+
+
+
+    /*---------------------contact section Start ----------------------*/
+    .step__wrp ul li i {
+        width: 24px;
+        height: 24px;
+        border-width: 2px;
+    }
+
+    .step__wrp ul:after {
+        top: 11px;
+        left: 60px;
+        width: calc(100% - 115px);
+        height: 4px;
+    }
+
+    .step__title h1 {
+        font-size: 36px;
+    }
+
+
+    .step__title p {
+        font-size: 18px;
+        gap: 10px;
+    }
+
+    .input__blk {
+        max-width: 1000px;
+        margin-bottom: 40px;
+    }
+
+    .input__blk label {
+        font-size: 24px;
+    }
+
+    .input__blk input {
+        height: 54px;
+        font-size: 22px;
+    }
+
+    .contact__form button {
+        height: 68px;
+        font-size: 20px;
+    }
+
+    .input__blk .wrapper {
+        max-width: 80%;
+    }
+
+    .wrapper .box label .text {
+        font-size: 20px;
+    }
+
+    /*---------------------contact section End -------------------------*/
+
+    
+
+/*---------------------Strategic section Start ----------------------*/
+.Strategic__blk h2 {
+    font-size: 24px;
+    top: -15px;
+  }
+  
+  .Strategic__blk p {
+    font-size: 14px;
+  }
+  /*---------------------Strategic section End -------------------------*/
 }
 
- 
+
 /* small screen :320px. */
 @media (max-width: 767px) {
 
- 
+    /*---------------------Solutions section Start ----------------------*/
+    .Solution__blk p {
+        font-size: 15px;
+        padding: 0 20px;
+    }
+
+    .Solution__blk h5 {
+        font-size: 18px;
+        margin-bottom: 14px;
+    }
+
+    .Solutions__top h1 {
+        font-size: 24px;
+    }
+
+    .Solutions__top h1 br {
+        display: none;
+    }
+
+    .Solutions__top p {
+        font-size: 18px;
+        max-width: 560px;
+    }
+
+    .Solutions__wrp {
+        padding: 0 20px;
+        border-radius: 24px;
+    }
+
+    .Solutions-area .title {
+        font-size: 32px;
+    }
+
+    .Solutions__wrp .Solution__blk {
+        margin-bottom: 24px;
+        max-width: 350px;
+        margin-inline: auto;
+        height: auto;
+        padding-bottom: 30px;
+    }
+
+    .Solution__btn a,
+    .theme-btn {
+        font-size: 18px;
+        width: 300px;
+        height: 60px;
+    }
+
+    .Solutions__wrpV2 .Solutions__top {
+        padding: 30px 0;
+    }
+
+    /*---------------------Solutions section End -------------------------*/
+
+
+
+    /*---------------------contact section Start ----------------------*/
+    .step__wrp ul li i {
+        width: 24px;
+        height: 24px;
+        border-width: 2px;
+    }
+
+    .step__wrp ul:after {
+        height: 3px;
+        top: 11px;
+        left: 60px;
+        width: calc(100% - 115px);
+    }
+
+    .step__title h1 {
+        font-size: 24px;
+    }
+
+    .step__title h1 img {
+        max-width: 22px;
+    }
+
+
+    .step__title p {
+        font-size: 14px;
+        gap: 7px;
+    }
+
+    .step__title p img {
+        scale: .8;
+        position: relative;
+        top: -2px;
+    }
+
+    .input__blk {
+        max-width: 1000px;
+        margin-bottom: 30px;
+    }
+
+    .contact__form {
+        margin: 0;
+    }
+
+    .input__blk label {
+        font-size: 18px;
+        margin-bottom: 5px;
+    }
+
+    .input__blk input {
+        height: 44px;
+        font-size: 17px;
+        padding: 0 16px;
+    }
+
+    .contact__form button {
+        height: 60px;
+        font-size: 18px;
+        max-width: 200px;
+        margin: auto !important;
+    }
+
+    .wrapper .box label .text {
+        font-size: 16px;
+    }
+
+    .wrapper .box label .dot {
+        width: 20px;
+        height: 20px;
+    }
+
+.wrapper .box label {
+    height: 48px;
+    margin-bottom: 14px;
 }
- 
+
+    #option-1:checked~.option-1 .dot::before,
+    #option-2:checked~.option-2 .dot::before,
+    #option-3:checked~.option-3 .dot::before,
+    #option-4:checked~.option-4 .dot::before {
+    background-size: 11px;
+    background-position: 2px 3px;
+}
+
+    /*---------------------contact section End -------------------------*/
+
+    
+
+/*---------------------Strategic section Start ----------------------*/
+.Strategic__blk h2 {
+    font-size: 20px;
+    top: -15px;
+  }
+
+.Strategic__blk {
+    margin-bottom: 50px;
+}
+
+.Strategic-area a.theme-btn {
+    margin: auto !important;
+}
+  
+  .Strategic__blk p {
+    font-size: 14px;
+  }
+  /*---------------------Strategic section End -------------------------*/
+}
+
 /* Large Mobile screen :480px. */
 @media only screen and (min-width: 480px) and (max-width: 767px) {
-.container {width:450px}
- 
+    .container {
+        width: 450px
+    }
+
 }

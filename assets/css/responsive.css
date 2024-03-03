@@ -13,31 +13,7 @@
 
 
     /*---------------------contact section Start ----------------------*/
-    .step__title h1 {
-        font-size: 40px;
-    }
-
-    section.contact-area .step__title {
-        max-width: 90%;
-    }
-
-    .input__blk {
-        max-width: 1000px;
-        margin-bottom: 40px;
-    }
-
-    .input__blk label {
-        font-size: 28px;
-    }
-
-    .input__blk input {
-        height: 60px;
-    }
-
-    .contact__form button {
-        height: 70px;
-        font-size: 22px;
-    }
+ 
 
     /*---------------------contact section End -------------------------*/
 
@@ -86,35 +62,9 @@
 
 
     /*---------------------contact section Start ----------------------*/
-    .step__title h1 {
-        font-size: 40px;
-    }
-
-    section.contact-area .step__title {
-        max-width: 90%;
-    }
-
-    .input__blk {
-        max-width: 1000px;
-        margin-bottom: 40px;
-    }
-
-    .input__blk label {
-        font-size: 28px;
-    }
-
-    .input__blk input {
-        height: 60px;
-    }
-
-    .contact__form button {
-        height: 70px;
-        font-size: 22px;
-    }
-
-    .input__blk .wrapper {
-        max-width: 830px;
-    }
+ 
+ 
+ 
 
     /*---------------------contact section End -------------------------*/
 
@@ -189,10 +139,7 @@
         width: calc(100% - 115px);
         height: 4px;
     }
-
-    .step__title h1 {
-        font-size: 36px;
-    }
+ 
 
 
     .step__title p {
@@ -200,32 +147,7 @@
         gap: 10px;
     }
 
-    .input__blk {
-        max-width: 1000px;
-        margin-bottom: 40px;
-    }
-
-    .input__blk label {
-        font-size: 24px;
-    }
-
-    .input__blk input {
-        height: 54px;
-        font-size: 22px;
-    }
-
-    .contact__form button {
-        height: 68px;
-        font-size: 20px;
-    }
-
-    .input__blk .wrapper {
-        max-width: 80%;
-    }
-
-    .wrapper .box label .text {
-        font-size: 20px;
-    }
+ 
 
     /*---------------------contact section End -------------------------*/
 
@@ -363,7 +285,7 @@
         height: 3px;
         top: 11px;
         left: 60px;
-        width: calc(100% - 115px);
+        width: calc(100% - 100px);
     }
 
     .step__title h1 {
@@ -388,7 +310,7 @@
 
     .input__blk {
         max-width: 1000px;
-        margin-bottom: 30px;
+        margin-bottom: 20px;
     }
 
     .contact__form {
@@ -396,7 +318,7 @@
     }
 
     .input__blk label {
-        font-size: 18px;
+        font-size: 16px;
         margin-bottom: 5px;
     }
 
